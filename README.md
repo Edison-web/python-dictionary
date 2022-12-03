@@ -15,6 +15,14 @@ This project is aimed at finding average of the 'total prices'💰 of the produc
 ## Screenshot📷 of the result of the python codes:
 ![Screenshot of the result of python codes](./Screenshots/python_dictionary_result.png)
 
+ ## Note:
+ This code does not print the dictionary dataset. If you wish to print them out, you can run the following codes in cell 5 to 7:
+
+ print(products)
+ print(prices)
+ print(last_week)
+
+ 'last_week' is the number of purchases made the previous week.
 
 ## Author👨 
 Edison Denutsui
