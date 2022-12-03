@@ -5,7 +5,7 @@ This project is aimed at finding average of the 'total prices'💰 of the produc
 
 
 
-## Screenshots📷 of :tada: codes:
+## Screenshots📷 of codes:
 ![First screenshot of python codes from the project.](./Screenshots/python_dictionary_codes_01.png)
 
 &nbsp;
@@ -22,7 +22,7 @@ This project is aimed at finding average of the 'total prices'💰 of the produc
  print(prices)
  print(last_week)
 
- 'last_week' is the number of purchases made the previous week.
+ :bulb:'last_week' is the number of purchases made the previous week.
 
 ## Author👨 
 Edison Denutsui
