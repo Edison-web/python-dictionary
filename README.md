@@ -5,7 +5,7 @@ This project is aimed at finding average of the 'total prices'💰 of the produc
 
 
 
-## Screenshots📷 of #:tada: codes:
+## Screenshots📷 of :tada: codes:
 ![First screenshot of python codes from the project.](./Screenshots/python_dictionary_codes_01.png)
 
 &nbsp;
